@@ -7,7 +7,7 @@
     * 
 * Autodidact: 
     * The objective is to deploy a portfolio based on
-        * [Personal jupyter projects](gamindful.github.io/Data-Science-Jupyter)
+        * [Personal jupyter projects](https://gamindful.github.io/Data-Science-Jupyter/lab/index.html))
         * Public data:
             * Neuroscience databases:
                 * [Neuroimaging Tools & Resources Collaboratory](https://www.nitrc.org/)
