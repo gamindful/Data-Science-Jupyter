@@ -1,4 +1,4 @@
-# This repository is powered by JupyterLite:
+# This repository is powered by Jupyterlite:
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
 # This repository is intended to store projects developed for academic and autodidact purposes.
