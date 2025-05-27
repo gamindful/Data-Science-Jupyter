@@ -3,10 +3,10 @@
 
 # This repository is intended to store projects developed for academic and autodidact purposes.
 * Academic:
-    * Training and deployment of Analysis performed during the upcoming [Neuromatch Academy](https://neuromatch.io/)
+    * Training and deployment of analysis performed during the upcoming [Neuromatch Academy](https://neuromatch.io/)
 * Autodidact: 
     * The objective is to deploy a portfolio based on
-        * [Personal jupyter projects](https://gamindful.github.io/Data-Science-Jupyter/lab/index.html))
+        * [Personal jupyter projects](https://gamindful.github.io/Data-Science-Jupyter/lab/index.html)
         * Public data:
             * Neuroscience databases:
                 * [Neuroimaging Tools & Resources Collaboratory](https://www.nitrc.org/)
