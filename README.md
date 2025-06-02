@@ -1,17 +1,15 @@
 # This repository is powered by Jupyterlite:
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
-# This repository is intended to store projects developed for academic and autodidact purposes.
-* Academic:
+# This repository is intended to store projects developed in the Data Science area for professional and autodidact purposes.
+* The objective is to store a portfolio based on: 
+    * [Personal jupyter projects](https://gamindful.github.io/Data-Science-Jupyter/lab/index.html)
     * Training and deployment of analysis performed during the upcoming [Neuromatch Academy](https://neuromatch.io/)
-* Autodidact: 
-    * The objective is to deploy a portfolio based on
-        * [Personal jupyter projects](https://gamindful.github.io/Data-Science-Jupyter/lab/index.html)
-        * Public data:
-            * Neuroscience databases:
-                * [Neuroimaging Tools & Resources Collaboratory](https://www.nitrc.org/)
-                * [Open Science Tools](https://alleninstitute.org/open-science-tools/)
-            * Common repositoryes
-                * [Kaggle](https://www.kaggle.com/)
-                * [The Hugging Face](https://huggingface.co/)
-                * [Google Datasearch](https://datasetsearch.research.google.com/)
+    * Analysis of public data:
+        * Neuroscience databases:
+            * [Neuroimaging Tools & Resources Collaboratory](https://www.nitrc.org/)
+            * [Open Science Tools](https://alleninstitute.org/open-science-tools/)
+        * Common repositoryes
+            * [Kaggle](https://www.kaggle.com/)
+            * [The Hugging Face](https://huggingface.co/)
+            * [Google Datasearch](https://datasetsearch.research.google.com/)
